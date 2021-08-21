@@ -56,7 +56,7 @@ document.getElementById("verifyPromo").addEventListener("click", function () {
         CalculateParcentage();
     }
     else {
-        console.log("please write carefully")
+        console.log("please write carefully");
     }
     document.getElementById("promoInput").value = "";
 
